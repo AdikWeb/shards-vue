@@ -1,0 +1,95 @@
+{
+	"countrys": [
+		{ "id": "0", "name": "country_one", "value": "country_one" },
+		{ "id": "1", "name": "country_two", "value": "country_two" }
+	],
+	"regions": {
+		"0": [
+			{
+				"id": "0",
+				"name": "country_one_region_one",
+				"text": "country_one_region_one"
+			},
+			{
+				"id": "1",
+				"name": "country_one_region_two",
+				"text": "country_one_region_two"
+			},
+			{
+				"id": "2",
+				"name": "country_one_region_three",
+				"text": "country_one_region_three"
+			}
+		],
+		"1": [
+			{
+				"id": "0",
+				"name": "country_two_region_one",
+				"text": "country_two_region_one"
+			},
+			{
+				"id": "1",
+				"name": "country_two_region_two",
+				"text": "country_two_region_two"
+			},
+			{
+				"id": "2",
+				"name": "country_two_region_three",
+				"text": "country_two_region_three"
+			}
+		]
+	},
+	"locality": {
+		"0": [
+			{
+				"id": "0",
+				"name": "region_one_locality_one",
+				"text": "region_one_locality_one"
+			},
+			{
+				"id": "1",
+				"name": "region_one_locality_two",
+				"text": "region_one_locality_two"
+			},
+			{
+				"id": "2",
+				"name": "region_one_locality_three",
+				"text": "region_one_locality_three"
+			}
+		],
+		"1": [
+			{
+				"id": "0",
+				"name": "region_two_locality_one",
+				"text": "country_two_region_one"
+			},
+			{
+				"id": "1",
+				"name": "region_two_locality_two",
+				"text": "region_two_locality_two"
+			},
+			{
+				"id": "2",
+				"name": "region_two_locality_three",
+				"text": "region_two_locality_three"
+			}
+		],
+		"2": [
+			{
+				"id": "0",
+				"name": "region_three_locality_one",
+				"text": "region_three_locality_one"
+			},
+			{
+				"id": "1",
+				"name": "region_three_locality_two",
+				"text": "region_three_locality_two"
+			},
+			{
+				"id": "2",
+				"name": "region_three_locality_three",
+				"text": "region_three_locality_three"
+			}
+		]
+	}
+}

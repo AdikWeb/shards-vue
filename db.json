@@ -1,0 +1,106 @@
+{
+  "locations": {
+    "countrys": [
+      {
+        "id": "0",
+        "text": "country_one",
+        "value": "country_one"
+      },
+      {
+        "id": "9",
+        "text": "country_two",
+        "value": "country_two"
+      }
+    ],
+    "regions": {
+      "country_one": [
+        {
+          "id": "0",
+          "value": "country_one_region_one",
+          "text": "country_one_region_one"
+        },
+        {
+          "id": "1",
+          "value": "country_one_region_two",
+          "text": "country_one_region_two"
+        },
+        {
+          "id": "2",
+          "value": "country_one_region_three",
+          "text": "country_one_region_three"
+        }
+      ],
+      "country_two": [
+        {
+          "id": "0",
+          "value": "country_two_region_one",
+          "text": "country_two_region_one"
+        },
+        {
+          "id": "1",
+          "value": "country_two_region_two",
+          "text": "country_two_region_two"
+        },
+        {
+          "id": "4",
+          "value": "country_two_region_three",
+          "text": "country_two_region_three"
+        }
+      ]
+    },
+    "locality": {
+      "country_one_region_one": [
+        {
+          "id": "0",
+          "value": "region_one_locality_one",
+          "text": "region_one_locality_one"
+        },
+        {
+          "id": "1",
+          "value": "region_one_locality_two",
+          "text": "region_one_locality_two"
+        },
+        {
+          "id": "2",
+          "value": "region_one_locality_three",
+          "text": "region_one_locality_three"
+        }
+      ],
+      "country_two_region_one": [
+        {
+          "id": "0",
+          "value": "region_two_locality_one",
+          "text": "country_two_region_one"
+        },
+        {
+          "id": "1",
+          "value": "region_two_locality_two",
+          "text": "region_two_locality_two"
+        },
+        {
+          "id": "2",
+          "value": "region_two_locality_three",
+          "text": "region_two_locality_three"
+        }
+      ],
+      "country_one_region_three": [
+        {
+          "id": "0",
+          "value": "region_three_locality_one",
+          "text": "region_three_locality_one"
+        },
+        {
+          "id": "1",
+          "value": "region_three_locality_two",
+          "text": "region_three_locality_two"
+        },
+        {
+          "id": "2",
+          "value": "region_three_locality_three",
+          "text": "region_three_locality_three"
+        }
+      ]
+    }
+  },
+  "addresses": []
+}
